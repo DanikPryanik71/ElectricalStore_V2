@@ -1,0 +1,41 @@
+﻿  Artikul.cpp
+  MainForm.cpp
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Analiz.h(146,11): warning C4101: value: неиспользованная локальная переменная
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Sotr.h(141,11): warning C4101: value: неиспользованная локальная переменная
+  Sotrudnik.cpp
+  Sotrudnik_2.cpp
+  Status.cpp
+  Yprav_Main.cpp
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Analiz.h(146,11): warning C4101: value: неиспользованная локальная переменная
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Sotr.h(141,11): warning C4101: value: неиспользованная локальная переменная
+  Ypr_Analiz.cpp
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Analiz.h(146,11): warning C4101: value: неиспользованная локальная переменная
+  Ypr_Klient.cpp
+  Ypr_Postavki.cpp
+  Ypr_Sotr.cpp
+Z:\Project_ElectricalStore_Git_V2\BD\Ypr_Sotr.h(141,11): warning C4101: value: неиспользованная локальная переменная
+  Zakazchik.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Artikul.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+Zakazchik.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_result"; образ нельзя запустить
+Ypr_Sotr.obj : warning LNK4248: неразрешенная лексема TypeRef (01000029) для "pg_result"; образ нельзя запустить
+Ypr_Postavki.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_result"; образ нельзя запустить
+Ypr_Klient.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_result"; образ нельзя запустить
+Ypr_Analiz.obj : warning LNK4248: неразрешенная лексема TypeRef (01000029) для "pg_result"; образ нельзя запустить
+Yprav_Main.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_result"; образ нельзя запустить
+Status.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_result"; образ нельзя запустить
+Sotrudnik.obj : warning LNK4248: неразрешенная лексема TypeRef (01000026) для "pg_result"; образ нельзя запустить
+MainForm.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002F) для "pg_result"; образ нельзя запустить
+Artikul.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_result"; образ нельзя запустить
+Zakazchik.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_conn"; образ нельзя запустить
+Ypr_Sotr.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_conn"; образ нельзя запустить
+Ypr_Postavki.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002C) для "pg_conn"; образ нельзя запустить
+Ypr_Klient.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_conn"; образ нельзя запустить
+Ypr_Analiz.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002A) для "pg_conn"; образ нельзя запустить
+Yprav_Main.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002C) для "pg_conn"; образ нельзя запустить
+Status.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_conn"; образ нельзя запустить
+Sotrudnik.obj : warning LNK4248: неразрешенная лексема TypeRef (01000027) для "pg_conn"; образ нельзя запустить
+MainForm.obj : warning LNK4248: неразрешенная лексема TypeRef (01000030) для "pg_conn"; образ нельзя запустить
+Artikul.obj : warning LNK4248: неразрешенная лексема TypeRef (0100002B) для "pg_conn"; образ нельзя запустить
+  BD.vcxproj -> Z:\Project_ElectricalStore_Git_V2\x64\Debug\BD.exe
